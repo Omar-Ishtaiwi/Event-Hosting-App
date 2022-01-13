@@ -1,0 +1,203 @@
+
+
+.appview{
+  position:relative;
+  left:10%;
+}
+
+
+.container{
+  display: flex;
+  flex-direction:row;
+  gap: 10px;
+ /* justify-content: center; */
+
+}
+.EventButton{
+width: 326px;
+height: 190px;
+left: 188px;
+top: 172px;
+color: white;
+background: #d0f1f5;
+border: 10px solid #88D9DE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+  /*
+position: absolute;
+width: 326px;
+height: 190px;
+left: 188px;
+top: 172px;
+
+background: #88D9DE;
+border: 5px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+*/
+}
+
+.Club{
+left: 30%;
+
+top:30%;
+width: 189px;
+height: 348px;
+
+background: #d0f1f5;
+border: 10px solid #88D9DE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+
+.ClubHeading{
+  left: 30%;
+  top:20%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 27px;
+  
+  color: black;
+}
+.ClubName{
+  position: relative;
+  left: 15%;
+  background: #;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+.ClubDesc{
+  position: relative;
+  left: 1%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+.ClubSocials{
+  position: relative;
+  left: 1%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+.ClubWebsite{
+  position: relative;
+  top: -4%;
+  left: 2%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+.EventName{
+  position: relative;
+  top:25%;
+  left: 2%;
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+  
+}
+
+.EventDate{
+  position: relative;
+  top:12%;
+  left: 50%;
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+.EventTime{
+  position: relative;
+  top:-2.5%;
+  left: 80%;
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+.EventDesc{
+  position:relative;
+  top: 5%;
+  left: 2.2%;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 27px;
+  
+  color: black;
+}
+
+
+
+
+.EventLocation{
+
+  position: relative;
+  top:-35%;
+  left: 66.5%;
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 27px;
+  
+  color: black;
+  
+}
+
+
+.button1{
+  
+position: absolute;
+width: 54px;
+height: 25px;
+left: 90px;
+top: 109px;
+
+background: #00DEEC;
+border: 5px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+
+.appBg{
+position: relative;
+width: 1920px;
+height: 1080px;
+overflow-x: hidden;
+
+background: #ffffff;
+}
