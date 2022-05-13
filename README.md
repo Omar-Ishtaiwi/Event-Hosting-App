@@ -1,4 +1,13 @@
-# Event Hosting Web App (React.js / Firebase)
+# Event Management Web App 
 
+This is React.js web app where users can post and manage events that other users have the ability to view.
+
+# Running the App
+
+
+# Technical Details
+
+
+# Screenshots
 
 
