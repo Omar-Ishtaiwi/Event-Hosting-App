@@ -8,6 +8,5 @@ This is a React.js web app where users can post and manage events that other use
 # Technical Details
 
 
-# Screenshots
 
 
