@@ -6,6 +6,8 @@ The application allows users to view and add events and clubs, and also has a lo
 
 The getEvents and getClubs functions are used to retrieve data from Firestore and the addEvents and addClubs functions are used to add data to Firestore. The handleSubmit function is used to handle form submissions. The signIn function is used to handle the email-based sign-in process and the statusCheck function is used to check the sign-in status of the user.
 
+
+# Running the App 
  
 Clone the repository
 
